@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 560px;
+    background-image:url(p1.jfif);
+    background-repeat:non-repeat;
+    background-size:1500px 560px;
+}
+form{
+    border: solid 1px; 
+    margin-left:900px;
+    width:350px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 100px;
+}
+label{
+    color: greenyellow;
+    font-size: 30px;
+}
+h1{
+    color: red;
+    font-size: 40px;
+    text-align:center;
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+button{
+    height: 45px;
+    width: 120px;
+    background-color: cornsilk;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+p{
+color: black;
+font-size:20px;
+}
+p a{
+    color: greenyellow;
+    font-size: 20px;
+}
